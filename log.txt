@@ -1,0 +1,4 @@
+[      32.912] milliseconds (     52.3451%) used in [    7306] calls by game.cpp Game::Draw at line 759
+[        1.51] milliseconds (     2.40159%) used in [    7306] calls by game.cpp Game::Update at line 637
+[       0.125] milliseconds (    0.198807%) used in [    4981] calls by game.cpp Game::PlaySounds at line 541
+[       0.047] milliseconds (   0.0747515%) used in [       1] calls by game.cpp Game::CreateCanvas at line 569

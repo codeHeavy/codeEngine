@@ -1,0 +1,52 @@
+------------------------------------------------
+Requirements to build 
+
+The proper version of Windows 10 SDK is required to build the project. If the windows 10 SDK is not already installed use the link below 
+
+Build in x64 configuration 
+
+If building in RELEASE then include the entire Assests folder and all the ddls in the Release directory 
+
+Windows 10 SDK : https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk 
+
+DirectX11 
+-----------------------------------------------
+
+Demo Tutorial (Use headphones for best experience) 
+
+The demo starts off with a third person camera attached to the spaceship. Once the demo is closed a log report is created by the profiler at the root in a "log.txt" file. 
+
+Use W or S to move the ship forward, or backward  
+
+Use A or D to turn/rotate the ship. Left mouse click and moving the mouse rotates the ship as well.  
+
+If the ship collides with the helix it'll lose a life indicated by the colored blocks on the top right 
+
+Press Tab to play/change the currently playing music. The sound fades in over 3 seconds 
+
+Press O to stop the playing background music. The sound fades out over 5 seconds 
+
+Click on the play UI button to play sound on the sphere object 
+
+Click on the stop UI button to stop sound on the sphere object 
+
+Use the arrow keys to move the sphere object up, down left or right. If audio is playing on the object then the audio orientation would also change 
+
+Click on the Reverb UI button to change the environmental reverb. The current environment is shown on the top left corner. Go near the sound source to really hear the difference in the reverberation. 
+
+Click on the Tool UI button to launch the sound editor. Choose the sound track you want to alter and hit update to update the values. In the demo hit tab to cycle to the sound with the updated properties. 
+
+Press ' ~ ' (tilde) to open the debug window. A full list of available debug commands is included in the documentation 
+
+Type in BoundingBoxOn to turn on visible bounding boxes and BoundingBoxOff to turn off bounding boxes. Type ChangeSky to change the current skybox.  
+
+Type in FreeCam in the debug window to change the camera to a free form camera. The ThirdPersonCam command will switch to a third person camera. 
+
+The free form camera controls are  
+
+W, A, S, D for moving forward, backward, strafe left and strafe right 
+
+Spacebar and X to move the camera Up and down 
+
+Left mouse click and move to rotate the camera 
+Use Arrow Keys to move the sphere. The sphere collides with the helix which prevents it from moving 

@@ -1,0 +1,11 @@
+Documentation,
+What more would be added 3 months from now,
+Instructions for how to use Engine (to add objects to UI for example) in addition to API breakdown
+Comments, how would a stranger use the code
++ Command for listing all commands,
+Possible autofill when typing commands,
++ Cleanup Live Object warnings
+Self evaluation
+Peer evaluation
+
+Fixed memory leak (Had to release wireframe rasterizer state in Renderer destructor).

@@ -1,0 +1,8 @@
+LeftPortrait=Vader.png
+RightPortrait=Luke.png
+Obi-Wan never told you what happened to your father.
+He told me enough!\nHe told me you killed him!
+No. I am your father.
+No. No... That's not true... That's impossible!
+Search your feelings. You know it to be true!
+NOOOOOOOO!

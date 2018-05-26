@@ -1,0 +1,3 @@
+Sound = ../../Assets/Sounds/nyancat.mp3
+Sound = ../../Assets/Sounds/funky.ogg
+Sound = ../../Assets/Sounds/drumloop.wav

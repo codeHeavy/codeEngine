@@ -1,0 +1,15 @@
+Texture = ../../Assets/Texture/SunnyCubeMap.dds
+Texture = ../../Assets/Texture/texture01.jpg
+Texture = ../../Assets/Texture/texture01.png
+Texture = ../../Assets/Texture/steel.jpg
+Texture = ../../Assets/Texture/heart.png
+Texture = ../../Assets/Texture/Heart2.png
+Texture = ../../Assets/Texture/Vader.png
+Texture = ../../Assets/Texture/Luke.png
+Texture = ../../Assets/Texture/Black.png
+Texture = ../../Assets/Texture/whiteradiobutton.png
+Texture = ../../Assets/Texture/lifebar0.png
+Texture = ../../Assets/Texture/lifebar1.png
+Texture = ../../Assets/Texture/lifebar2.png
+Texture = ../../Assets/Texture/lifebar3.png
+Texture = ../../Assets/Texture/lifebar4.png

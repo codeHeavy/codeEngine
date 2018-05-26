@@ -1,0 +1,6 @@
+RadioButton,-3.25,-1,0.25,0.25,0.5,0.5,0.5,1,whiteradiobutton.png
+RadioButton,-3.25,-1.25,0.25,0.25,0.5,0.5,0.5,1,whiteradiobutton.png
+RadioButton,-3.25,-1.5,0.25,0.25,0.5,0.5,0.5,2,whiteradiobutton.png
+RadioButton,-3.25,-1.75,0.25,0.25,0.5,0.5,0.5,2,whiteradiobutton.png
+TextEntity,Hello World,Left,50,70
+Sprite,Heart2.png,3.0,1.5,0.4,0.4,1,1,1

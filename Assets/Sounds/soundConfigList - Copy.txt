@@ -1,0 +1,3 @@
+../../Assets/Sounds/nyancat.mp3,1,2
+../../Assets/Sounds/funky.ogg,1,2
+../../Assets/Sounds/drumloop.wav,1,2

@@ -1,0 +1,6 @@
+Mesh = ../../Assets/Models/cone.obj
+Mesh = ../../Assets/Models/cube.obj
+Mesh = ../../Assets/Models/cylinder.obj
+Mesh = ../../Assets/Models/helix.obj
+Mesh = ../../Assets/Models/sphere.obj
+Mesh = ../../Assets/Models/torus.obj
